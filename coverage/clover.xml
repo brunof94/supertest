@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1664548765948" clover="3.2.0">
+  <project timestamp="1664548765948" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2" elements="20" coveredelements="20" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="app.js" path="/Users/bruno/Documents/practicatdd/src/app.js">
+      <metrics statements="13" coveredstatements="13" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="4" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="2" type="stmt"/>
+      <line num="24" count="2" type="stmt"/>
+      <line num="25" count="2" type="cond" truecount="3" falsecount="0"/>
+      <line num="27" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
